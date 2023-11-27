@@ -1,0 +1,11 @@
+C:\Users\0_305_6\Documents\UP1\UP1\bin\Debug\UP1.exe.config
+C:\Users\0_305_6\Documents\UP1\UP1\bin\Debug\UP1.exe
+C:\Users\0_305_6\Documents\UP1\UP1\bin\Debug\UP1.pdb
+C:\Users\0_305_6\Documents\UP1\UP1\obj\Debug\UP1.csproj.AssemblyReference.cache
+C:\Users\0_305_6\Documents\UP1\UP1\obj\Debug\UP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\0_305_6\Documents\UP1\UP1\obj\Debug\UP1.Form1.resources
+C:\Users\0_305_6\Documents\UP1\UP1\obj\Debug\UP1.Properties.Resources.resources
+C:\Users\0_305_6\Documents\UP1\UP1\obj\Debug\UP1.csproj.GenerateResource.cache
+C:\Users\0_305_6\Documents\UP1\UP1\obj\Debug\UP1.csproj.CoreCompileInputs.cache
+C:\Users\0_305_6\Documents\UP1\UP1\obj\Debug\UP1.exe
+C:\Users\0_305_6\Documents\UP1\UP1\obj\Debug\UP1.pdb
